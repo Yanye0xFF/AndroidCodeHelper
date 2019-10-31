@@ -1,2 +1,3 @@
-# AndroidCodeHelper
- 安卓开发助手，一键生成常用模板代码。
+## 欢迎使用 安卓开发助手 AndroidCodeHelper
+ 安卓开发助手，一键生成常用模板代码。  
+ 文档稍后补充...
