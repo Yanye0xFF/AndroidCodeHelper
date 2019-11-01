@@ -1,5 +1,6 @@
 ## 欢迎使用 安卓开发助手 AndroidCodeHelper
  安卓开发助手，一键生成常用模板代码。  
+ 软件运行需要java环境，使用sun jre或open jre都可。
  主界面截图  
 ![main_page](https://raw.githubusercontent.com/Yanye0xFF/PictureBed/master/images/androidcodehelper/main_page.png)  
 ##### 主要功能
